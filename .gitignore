@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Ignore large files and datasets
+*.zip
+*.pt
+*yolov*.pt
+
+# Ignore testing datasets
+testing folder/
